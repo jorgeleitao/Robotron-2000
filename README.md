@@ -1,2 +1,1 @@
-# Robotron-2000
-Projeto Alura - Manipulando DOM
+# robotron-2000
